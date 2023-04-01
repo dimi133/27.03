@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main{
+    background-color: green;
+    margin: auto;
+    width: 599px;
+    height: 500px;
+    margin-top: 30px;
+}
+
+.block1{        
+    background-color: white;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    top: 50px;
+    left: 50px;
+}
+
+.block2{
+    background-color: white;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    bottom: -230px;
+    right: -420px;
+}

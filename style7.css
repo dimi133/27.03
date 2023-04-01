@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.block{
+    border: 2px solid green;
+    margin: auto;
+    width: 599px;
+    height: 500px;
+    margin-top: 30px;
+}
+
+.block1{
+    border: 2px solid red;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    top: 100px;
+    left: 100px;
+}

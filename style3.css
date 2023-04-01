@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.block1{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position: absolute;
+    top: 30px;
+    left: 30px;
+}
+
+.block2{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    position: absolute;
+    left: 90px;
+    top: 90px;
+}
+
+.block3{
+    width: 100px;
+    height: 100px;
+    background-color:  green;
+    position: absolute;
+    top: 150px;
+    left: 150px;
+}

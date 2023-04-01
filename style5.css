@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.block{
+    width: 1000px;
+    height: 500px;
+    border: 1px dotted black;
+}
+
+.block1{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position: relative;
+    top: 30px;
+    left: 30px;
+    z-index: 1;
+}
+
+.block2{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    position: relative;
+    left: 100px;
+}
+
+.block3{
+    width: 100px;
+    height: 100px;
+    background-color:  green;
+    position: relative;
+    top: -30px;
+    left: 165px;
+    z-index: 1;
+}
